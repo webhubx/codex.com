@@ -1,0 +1,115 @@
+*{margin:0; outline: 0;padding: 0;}
+
+body{fornt-size:18px; line-height: 18px; font-family: Arial, Helvetica, sans-serif;background-color: rgb(196, 196, 196);}
+
+.template{
+    width: 960px;
+    margin: 0 auto;
+    background-color: white;
+}
+.clear{overflow: hidden;}
+
+.headersection{}
+.header{background-color: black; height: 100px;}
+.headerleft{float: left; width: 400px;padding-top: 10px;}
+.headerleft h2{color: white; font-size: 45px; line-height: 65px;font-weight: 500;
+padding-left: 57px;}
+.headerright{padding:30px;
+     float: right;
+     width: 400px;}
+.headerright a{color: white; 
+    text-decoration: none;
+    padding: 0 5px;}
+.headerright a:hover{color: blue;}
+
+.mainsection{
+    
+}
+.slogansection{margin: 20px 50px 20px 50px;
+
+     
+      border-bottom: 2px dotted black;
+       padding-bottom: 20px;}
+.slogansection h2 {
+    font-size: 48px;
+    font-family: sans-serif;
+    line-height: 50px;
+}
+.slogansection h3 {
+    font-size: 30px;
+    color: #08080852;
+    font-weight: 400;
+    line-height: 35px;
+}
+.description{
+margin: 20px 50px 20px 50px;
+line-height: 28px;
+font-size: 25px;
+border-bottom: 2px dotted black;
+padding-bottom: 20px;
+}
+.description p{}
+.contentsection{
+margin: 30px 30px;}
+.services {
+    background-color: blue;
+    width: 232px;
+    float: left;
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 4px 7px 5px -1px #444;}
+.services h2{color: white;
+border-bottom: 2px solid white;
+padding-bottom: 10px;}
+.services p{ padding-top: 10px;
+    color: white;
+    line-height: 1.7;}
+
+.readmore{    background: white;
+    padding: 10px;
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;}
+.readmore a{font-weight: 600;
+text-transform: uppercase;
+text-decoration: none;}
+.readmore a:hover{}
+.mainbottom {
+    margin: 20px 50px;
+    border-top: 2px dotted;
+    border-bottom: 2px dotted;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.clientsectoin{ width: 410px;
+float: left;
+border-right: 2px solid rgba(15, 15, 14, 0.336);
+padding-right: 30px;}
+.clientsectoin h2{    font-weight: 400;
+    padding-bottom: 20px;}
+.testimonials{margin:10px 0px;}
+.clietimage{float: left;width: 80px;margin-right: 20px;}
+.clietimage img{width: 80px;height: 80px;}
+.clientdesc{float: left;width: 310px;}
+.clientdesc p{}
+.clientdesc a{text-decoration: none;}
+.clientdesc a:hover{}
+
+
+.name{font-weight: 600;
+padding-top: 10px;}
+
+.projectsection{width: 393px;
+float: right;
+}
+.projectsection h2{font-weight: 400;
+    padding-bottom: 20px;}
+.projectsection h3{font-weight: 400;
+    padding-bottom: 18px;}
+.projectsection p{margin-bottom: 10px; margin-top: 10px;line-height: 1.5;}
+.projectsection img{width: 380px;height: 200px; border: 1px solid black;}
+.projectsection a{text-decoration: none;}
+.projectsection a:hover{}
+
+.footersection{margin: 0 50px;margin-bottom: 20px;}
+.footersection p{}
