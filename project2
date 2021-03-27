@@ -1,0 +1,130 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- Add your site or application content here -->
+  <div class="template clear">
+    <header class="headersection clear">
+      <div class="title clear">
+        <h2><span class="extra">l</span>orem <span class="extra">i</span>psum</h2>
+      </div>
+      <nav class="mainmenu clear">
+        <a href="#">Home</a>
+        <a href="#">Services</a>
+        <a href="#">Contact Us</a>
+        <a href="#">About us</a>
+      </nav>
+    </header>
+    <div class="mainsection clear">
+      <section class="maintop clear">
+        <h2>Lorem <span class="lorem">&</span> Ipsum dolor sit amet.</h2>
+        <h4>Lorem, ipsum dolor Lorem, ipsum dolor..</h4>
+      </section>
+      <section class="content clear">
+        <div class="description clear">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ipsa saepe recusandae sequi provident cumque quisquam ex repellendus amet totam Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, quasi..</p>
+        </div>
+        <div class="midcontent clear">
+          <div class="midleft clear">
+            <h2>Lorem ipsum.</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime rerum dolor, soluta iure ut quaerat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero neque saepe odio quaerat ut ullam?</p>
+          </div>
+          <div class="midright clear">
+            <img src="img/Iphone8-Cover2-removebg-preview.png" alt="Image here">
+          </div>
+        </div>
+      </section>
+          <section class="post clear">
+            <div class="postsection">
+              <article class="services clear">
+                <header>
+                  <h2>Lorem ipsum.</h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quisquam totam alias pariatur dicta similique.</p>
+                </header>
+                <fotter>
+                  <div class="postlink clear">
+                    <a href="#">Lorem, ipsum.</a>
+                  </div> 
+                </fotter>
+
+              </article>
+            
+          
+              <article class="services clear">
+                <header>
+                  <h2>Lorem ipsum.</h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quisquam totam alias pariatur dicta similique.</p>
+                </header>
+                <fotter>
+                  <div class="postlink clear">
+                    <a href="#">Lorem ipsum.</a>
+                  </div> 
+                </fotter>
+
+              </article>
+          
+          
+              <article class="services clear">
+                <header>
+                  <h2>Lorem ipsum.</h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quisquam totam alias pariatur dicta similique.</p>
+                </header>
+                <fotter>
+                  <div class="postlink clear">
+                    <a href="#">Lorem ipsum.</a>
+                  </div> 
+                </fotter>
+
+              </article>
+            </div>
+          </section>
+      
+    </div>
+      <fotter class="fottersection clear">
+        <section class="foot clear">
+          <p>&copy; Copyright Live Project || <a href="#">Privacy Polocy</a></p>
+          <p>https://liveproject.com</p>
+          <a href="mail to: liveproject@gmail.com">liveproject@gmail.com</a>
+        </section>
+      </fotter>
+  </div> 
+
+
+
+  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async></script>
+</body>
+
+</html>
